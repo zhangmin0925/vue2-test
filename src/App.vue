@@ -9,7 +9,7 @@
     <!-- computed运行逻辑 -->
     <div>nickName{{nickName}}</div>
     <div>firstName{{firstName}}</div>
-    <div>lastName{{lastName}}</div>
+    <div>lastName{{lastName }}</div>
     <div>name{{name}}</div>
   </div>
 </template>
